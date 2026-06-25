@@ -287,11 +287,8 @@ python -m ingestion.pipeline
 - **Production**: 4+ CPU, 8GB+ RAM
 - **Qdrant storage**: ~500MB cho 100 documents
 
-## License
-
-MIT License
 
 ## Contact
 
-- **Developer**: [Your Name]
-- **Email**: [your.email@example.com]
+- **Developer**: Tran Ngoc Nghia
+- **Email**: ngocnghiabc01@gmail.com
